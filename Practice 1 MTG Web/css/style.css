@@ -1,0 +1,26 @@
+
+body {
+    font-size: 15px;
+    font-family: Georgia, 'Times New Roman', Times, serif, Georgia, 'Times New Roman', Times, serif;
+    font-weight: 100;
+    color: whitesmoke;
+    background-color: black;
+}
+
+h1 {
+    font-family: 'Metal Mania', cursive;
+    font-size: 60px;
+    font-weight: 100;
+    text-align: center;
+}
+h1:hover{
+    color: red;
+}
+h2 {
+    font-family: 'Metal Mania', cursive;
+    font-size: 30px;
+    font-weight: 100;
+}
+a{
+    color: teal;
+}
